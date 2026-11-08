@@ -1,0 +1,1 @@
+"""Zero-dependency RFC implementations (stdlib only)."""
